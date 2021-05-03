@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title:
-description:
+title: Scavenger hunt 2021
+description: You've made it this far, can you make it a little further?
 plugins:
   - jekyll-relative-links
 relative_links:
