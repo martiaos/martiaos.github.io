@@ -2,7 +2,7 @@
 title: Hovedhuset
 ---
 
-#  Well done, you've found the fifth post
+#  Well done, you've found the fifth post!
 
 Congrats - you're halfway there!
 

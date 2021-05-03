@@ -2,7 +2,7 @@
 title: Gamle Sanatorie
 ---
 
-#  Well done, you've found the ninth post
+#  Well done, you've found the ninth post!
 
 Just one to go!
 

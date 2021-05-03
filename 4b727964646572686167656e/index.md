@@ -2,7 +2,7 @@
 title: Krydderhagen
 ---
 
-#  Well done, you've found the sixth post!
+#  You've found the sixth post!
 
 ### Task
 

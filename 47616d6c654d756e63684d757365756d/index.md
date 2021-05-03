@@ -2,7 +2,7 @@
 title: Gamle Munchmuseet
 ---
 
-#  Well done, you've found the seventh post!
+#  You've found the seventh post!
 
 ### Task
 

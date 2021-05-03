@@ -2,7 +2,7 @@
 title: Kampen Park
 ---
 
-#  Well done, you've found the eight post!
+#  You've found the eight post!
 
 ### Task
 
