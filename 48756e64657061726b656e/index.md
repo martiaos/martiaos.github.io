@@ -2,7 +2,7 @@
 title: Hundeparken
 ---
 
-#  Congratulations! You've completed all the posts!  
+#  Congratulations! You've found the final post!  
 
 ### Question
 _Question goes here._

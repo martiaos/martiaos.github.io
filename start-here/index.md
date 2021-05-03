@@ -13,3 +13,6 @@ _Find a name for your team, write it on the black board and take a creative phot
 
 ### Clue to next post:
 _Standing tall in the middle of the park with wind in her hair._
+
+
+[Post 2](https://martiaos.github.io/54c3b879656e7061726b656e/)

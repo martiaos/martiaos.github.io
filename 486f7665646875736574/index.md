@@ -9,3 +9,5 @@ _Question goes here._
 
 ### Clue to next post:
 _A small garden with rosemary, thyme and all that smells good._
+
+[Post 6](https://martiaos.github.io/4b727964646572686167656e/)
