@@ -2,7 +2,7 @@
 title: Bestemors hage
 ---
 
-# You've found post 4!
+# You've found the fourth post!
 
 ### Question
 

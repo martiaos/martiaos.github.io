@@ -2,7 +2,7 @@
 title: Klimahuset
 ---
 
-# You've found post 3!
+# You've found the third post!
 
 ### Question
 
