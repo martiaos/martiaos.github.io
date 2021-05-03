@@ -6,7 +6,10 @@ title: Tøyenbadet
 
 Each post will have a question or task, and a hint that will lead you to the next post.
 
-You've found the first post, can you find the next one?
+You've found the first post, Tøyenbadet! Can you find the next one?
+
+![_Tøyenbadet_](https://en.wikipedia.org/wiki/T%C3%B8yenbadet#/media/File:T%C3%B8yenbadet_19.04.2011_11-39-42.JPG)
+
 
 ### Task
 
