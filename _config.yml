@@ -8,3 +8,5 @@ relative_links:
   collections: true
 include:
   - README.md
+github:
+  is_project_page: false
