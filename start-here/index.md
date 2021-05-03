@@ -8,7 +8,8 @@ Each post will have a question or task, and a hint that will lead you to the nex
 
 You've found the first post, can you find the next one?
 
-### Question
+### Task
+
 _Find a name for your team, write it on the black board and take a creative photo of the whole team with the board. (Remember to maintain distance!)_
 
 ### Clue to next post:

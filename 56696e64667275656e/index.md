@@ -4,7 +4,7 @@ title: Klimahuset
 
 # You've found the third post!
 
-### Question
+### Task
 
 _Question goes here._
 
