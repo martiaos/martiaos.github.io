@@ -1,8 +1,8 @@
---- 
+---
 title: Are you lost, traveller?
 ---
 
-# What is this? 
+# What is this?
 
 This is my Github page.
 
@@ -10,13 +10,12 @@ This is my Github page.
 
 You appear to be lost.
 
-# Is there anything interesting here I can look around for? 
+# Is there anything interesting here I can look around for?
 
-Nope. 
+Nope.
 
 Nothing.
 
-This is not the page you're looking for. 
+This is not the page you're looking for.
 
-
-
+... But maybe you can [start here?](https://martiaos.github.io/start-here/)
