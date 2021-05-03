@@ -1,10 +1,10 @@
 theme: jekyll-theme-minimal
-title: Welcome to my Github page!  
-description: No need to be snooping around, there's nothing interesting here! 
-plugins
+title: Welcome to my Github page!
+description: No need to be snooping around, there's nothing interesting here!
+plugins:
   - jekyll-relative-links
-relative_links
-  enabled true
-  collections true
-include
+relative_links:
+  enabled: true
+  collections: true
+include:
   - README.md
