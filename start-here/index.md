@@ -6,17 +6,18 @@ title: Tøyenbadet
 
 Each post will have a question or task, and a hint that will lead you to the next post.
 
-You've found the first post, Tøyenbadet! Can you find the next one?
-
-![_Tøyenbadet_](https://en.wikipedia.org/wiki/T%C3%B8yenbadet#/media/File:T%C3%B8yenbadet_19.04.2011_11-39-42.JPG)
+You've found the first post, _Tøyenbadet_! The biggest swimming pool facility in all of Norway, this public pool was built in 1976! It was closed last spring due to maintenance issues, and is pending demolishment before it's to be rebuilt and reopened in 2023!
 
 
 ### Task
 
 _Find a name for your team, write it on the black board and take a creative photo of the whole team with the board. (Remember to maintain distance!)_
 
+One post down, can you find the next one?
+
 ### Clue to next post:
-_Standing tall in the middle of the park with wind in her hair._
+_Standing tall in the middle of the park, the wind in her hair._
 
 
+#### Temp cheat link
 [Post 2](https://martiaos.github.io/54c3b879656e7061726b656e/)

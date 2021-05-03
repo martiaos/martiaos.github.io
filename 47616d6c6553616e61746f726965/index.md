@@ -1,8 +1,10 @@
 ---
-title: Gamle Sanatorie
+title: Trafo
 ---
 
 #  Well done, you've found the ninth post!
+
+Though easy to mistake for a hospital or school, this building from 1916 is actually a transformer station. Watt a shock!
 
 Just one to go!
 
@@ -14,4 +16,5 @@ _Question goes here._
 
 _The best view and place to be a free dog._
 
+#### Temp cheat link
 [Post 10](https://martiaos.github.io/48756e64657061726b656e//)
