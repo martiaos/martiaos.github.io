@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: Post 2
-description: Vindfruen
+title: Post 3
+description: Klimahuset
 plugins:
   - jekyll-relative-links
 relative_links:
