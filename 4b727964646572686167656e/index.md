@@ -8,7 +8,7 @@ Don't touch! _Urtehagen_, charming as it is, actually contains a wide variety of
 
 ### Task
 
-_Can you write (4x1000) + (7x100) + (3x10) + (0x1) as a hexadecimal number?_
+_Can you write `(4x1000) + (7x100) + (3x10) + (0x1)` as a hexadecimal number?_
 
 ### Clue to next post:
 
