@@ -8,7 +8,7 @@ _Klimahuset_ is a part of the Natural History Museum and features exhibitions on
 
 ### Task
 
-_Question goes here._
+_When did Kristiania change its name to 'Oslo'?_
 
 ### Clue to next post:
 

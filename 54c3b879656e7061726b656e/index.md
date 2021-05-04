@@ -8,7 +8,7 @@ This stone statue called _Vindfruen_ made by Ole Kristian Sjølie was originally
 
 ### Task
 
-_Question goes here._
+_The statue has a rather magnificent pose! Can you replicate it? Remember to document!_
 
 ### Clue to next post:
 

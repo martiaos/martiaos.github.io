@@ -10,7 +10,7 @@ Parts of the building in front of you, _Tøyen Hovedgård_, was built in 1679, m
 
 ### Task
 
-_Question goes here._
+_What is the name of Oslo's longest river?_
 
 ### Clue to next post:
 

@@ -8,7 +8,7 @@ _Oldermors Hage_ is a part of the Botanical Gard and the Natural History Museum.
 
 ### Task
 
-_Question goes here._
+_What does CCB mean at Netlight?_
 
 ### Clue to next post:
 
