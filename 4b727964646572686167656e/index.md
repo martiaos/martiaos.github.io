@@ -9,7 +9,7 @@ Don't touch! _Urtehagen_, charming as it is, actually contains a wide variety of
 ### Task
 
 _Can you write (4x1000) + (7x100) + (3x10) + (0x1) as a hexadecimal number?_
-(127A)
+
 ### Clue to next post:
 
 _This building will be emptied and it's art will be moved this summer._
