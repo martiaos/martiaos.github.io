@@ -2,7 +2,7 @@
 title: Hundeparken
 ---
 
-# :star_2: Congratulations! :star_2:
+# :star2: Congratulations! :star2:
 
 You've found the final post!  
 
