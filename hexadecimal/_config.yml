@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: Netlight Oslo scavenger hunt 2021
-description: You've made it this far, can you make it a little further?
+title: Post 10.5
+description: hexadecimal
 plugins:
   - jekyll-relative-links
   - jemoji
@@ -10,4 +10,4 @@ relative_links:
 include:
   - README.md
 github:
-  is\_project\_page: false
+  is_project_page: false

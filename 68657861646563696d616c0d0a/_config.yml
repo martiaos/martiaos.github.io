@@ -3,6 +3,7 @@ title: Post 11
 description: hexadecimal
 plugins:
   - jekyll-relative-links
+  - jemoji
 relative_links:
   enabled: true
   collections: true
