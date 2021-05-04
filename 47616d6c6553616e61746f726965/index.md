@@ -4,7 +4,7 @@ title: Trafo
 
 #  Well done, you've found the ninth post!
 
-Though easy to mistake for a hospital or school, this building from 1916 is actually a transformer station. Watt a shock!
+Though easy to mistake for a hospital or school, this building from 1916 was actually built as a transformer station. Watt a shock! Today it houses art workshops and Oslo Teatersenter. 
 
 Just one to go!
 
