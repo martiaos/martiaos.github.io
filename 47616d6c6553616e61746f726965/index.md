@@ -17,4 +17,4 @@ _Oslo's patron saint is pictured on the Oslo municipal seal. What is his or her 
 _Hidden in the forest lies the best view and place to be a free dog._
 
 #### Temp cheat link
-[Post 10](https://martiaos.github.io/48756e64657061726b656e//)
+[Post 10](https://martiaos.github.io/48756e64657061726b656e/)
