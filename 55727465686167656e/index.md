@@ -12,4 +12,4 @@ _Can you write `(4x1000) + (7x100) + (3x10) + (0x1)` as a hexadecimal number?_
 
 ### Clue to next post:
 
-_This building will be emptied and it's art will be moved this summer._
+_This building will be emptied and its art will be moved this summer._
