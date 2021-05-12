@@ -1,5 +1,5 @@
 ---
-title: Hovedhuset
+title: Tøyen hovedgård
 ---
 
 #  Well done, you've found the fifth post!
@@ -15,6 +15,3 @@ _What is the name of Oslo's longest river?_
 ### Clue to next post:
 
 _A small garden with rosemary, thyme and all that smells good._
-
-#### Temp cheat link
-[Post 6](https://martiaos.github.io/4b727964646572686167656e/)

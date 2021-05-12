@@ -1,8 +1,9 @@
 theme: jekyll-theme-minimal
-title: Post 9
-description: Gamle Sanatorie
+title: Post 11
+description: hexadecimalBeginner
 plugins:
   - jekyll-relative-links
+  - jemoji
 relative_links:
   enabled: true
   collections: true

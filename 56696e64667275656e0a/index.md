@@ -13,6 +13,3 @@ _The statue has a rather magnificent pose! Can you replicate it? Remember to doc
 ### Clue to next post:
 
 _The place to go if you have questions about climate change._
-
-#### Temp cheat link
-[Post 3](https://martiaos.github.io/56696e64667275656e/)

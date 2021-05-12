@@ -1,5 +1,5 @@
 ---
-title: Gamle Munchmuseet
+title: Munchmuseet
 ---
 
 #  You've found the seventh post!
@@ -14,7 +14,4 @@ _Give your best impersonation of "The Scream" by Munch and document it..._
 
 ### Clue to next post:
 
-_On top of a hill lies an old water reservoir._ 
-
-#### Temp cheat link
-[Post 8](https://martiaos.github.io/4b616d70656e7061726b/)
+_On top of a hill lies an old water reservoir._

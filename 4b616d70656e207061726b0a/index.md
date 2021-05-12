@@ -1,5 +1,5 @@
 ---
-title: Kampen Park
+title: Kampen park
 ---
 
 #  You've found the eight post!
@@ -13,6 +13,3 @@ _What is the name of the horse in our office?_
 ### Clue to next post:
 
 _On the top of the world, a grand white building._
-
-#### Temp cheat link
-[Post 9](https://martiaos.github.io/47616d6c6553616e61746f726965/)

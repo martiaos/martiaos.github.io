@@ -17,7 +17,3 @@ One post down, can you find the next one?
 
 ### Clue to next post:
 _Standing tall in the middle of the park, the wind in her hair._
-
-
-#### Temp cheat link
-[Post 2](https://martiaos.github.io/54c3b879656e7061726b656e/)

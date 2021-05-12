@@ -1,9 +1,8 @@
 theme: jekyll-theme-minimal
-title: Post 11
-description: hexadecimal
+title: Post 4
+description: Oldemors hage
 plugins:
   - jekyll-relative-links
-  - jemoji
 relative_links:
   enabled: true
   collections: true
