@@ -3,6 +3,7 @@ title: Post 1
 description: Tøyenbadet
 plugins:
   - jekyll-relative-links
+  - jemoji 
 relative_links:
   enabled: true
   collections: true

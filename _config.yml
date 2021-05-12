@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Netlight Oslo scavenger hunt 2021
-description: You've made it this far, can you make it a little further?
+description: You've made it this far, can you make it a little further?  Having technical issues, or otherwise stuck? Ping @Martin.O on Slack :sunglasses: 
 plugins:
   - jekyll-relative-links
   - jemoji
