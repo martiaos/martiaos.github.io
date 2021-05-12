@@ -4,7 +4,7 @@ title: Oldemors hage
 
 # You've found the fourth post!
 
-_Oldermors Hage_ is a part of the Botanical Gard and the Natural History Museum. This garden houses large numbers of perennials that have been moved here from old gardens all over south-eastern Norway. Any plants included here must have a known history going back to the 1950s or earlier, meaning the garden works as a living gene bank for qualities that may be missing in modern varieties of the perennials. How cool is that?!
+_Oldemors Hage_ is a part of the Botanical Gard and the Natural History Museum. This garden houses large numbers of perennials that have been moved here from old gardens all over south-eastern Norway. Any plants included here must have a known history going back to the 1950s or earlier, meaning the garden works as a living gene bank for qualities that may be missing in modern varieties of the perennials. How cool is that?!
 
 ### Task
 
