@@ -15,3 +15,5 @@ _What is the name of Oslo's longest river?_
 ### Clue to next post:
 
 _A small garden with rosemary, thyme and all that smells good._
+
+(Warning: There are two spice-areas, you're looking for the one next to the Museum of Natural History)
