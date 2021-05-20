@@ -1,0 +1,13 @@
+theme: jekyll-theme-minimal
+title: Post 11
+description: hexadecimalBeginner
+plugins:
+  - jekyll-relative-links
+  - jemoji
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+github:
+  is_project_page: false
